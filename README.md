@@ -8,6 +8,6 @@
 ![Cowman](img/page-view.png)
 
 网页元素如下：
-![Cowman](page-code.png)
+![Cowman](img/page-code.png)
 
 
